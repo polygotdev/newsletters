@@ -1,6 +1,11 @@
 # Tech Industry Newsletters
 
-## Cooper Press
+## Cooper Press 
+
+[Cooper Press NewsLetters](https://cooperpress.com/publications/#newsletters)
+
+[JavaScript Live](https://jslive.com/)
+
 
 ### Wednesday
 - FrontEnd Focus [http://frontendfocus.co/](http://frontendfocus.co/)
@@ -17,6 +22,7 @@
 - JavaScript Weekly [http://javascriptweekly.com/](http://javascriptweekly.com/)
 - DB Weekly [http://dbweekly.com/](http://dbweekly.com/)
 - React Status [http://react.statuscode.com/](http://react.statuscode.com/)
+- Serverless Status [https://serverless.email/issues](https://serverless.email/issues)
 
 ### Monthly
 - Cloud Development Weekly [http://clouddevweekly.co/issues](http://clouddevweekly.co/issues)
