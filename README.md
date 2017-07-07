@@ -8,10 +8,10 @@
 
 
 ### Wednesday
-- FrontEnd Focus [http://frontendfocus.co/](http://frontendfocus.co/)
-- Mobile Web Weekly [http://mobilewebweekly.co/](http://mobilewebweekly.co/)
-- Web Operations Weekly [http://webopsweekly.com](http://webopsweekly.com)
-- Postgres Weekly [http://postgresweekly.com/](http://postgresweekly.com/)
+- FrontEnd Focus [http://frontendfocus.co/issues](http://frontendfocus.co/issues)
+- Mobile Web Weekly [http://mobilewebweekly.co/issues](http://mobilewebweekly.co/issues)
+- Web Operations Weekly [http://webopsweekly.com/issues](http://webopsweekly.com/issues)
+- Postgres Weekly [http://postgresweekly.com/issues](http://postgresweekly.com/issues)
 
 ### Thursday
 - Node Weekly [http://nodeweekly.com/issues](http://nodeweekly.com/issues)
