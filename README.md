@@ -15,8 +15,8 @@
 
 ### Thursday
 - Node Weekly [http://nodeweekly.com/issues](http://nodeweekly.com/issues)
-- Go Newsletter [http://golangweekly.com/](http://golangweekly.com/)
-- Ruby Weekly [http://rubyweekly.com/](http://rubyweekly.com/)
+- Go Newsletter [http://golangweekly.com/issues](http://golangweekly.com/issues)
+- Ruby Weekly [http://rubyweekly.com/issues](http://rubyweekly.com/issues)
 
 ### Friday
 - JavaScript Weekly [http://javascriptweekly.com/issues](http://javascriptweekly.com/issues)
@@ -43,5 +43,5 @@ ___
 - Import Python [http://importpython.com/newsletter/](http://importpython.com/newsletter/)
 
 ### Whenever
-- React.js Newsletter [http://reactjsnewsletter.com/](http://reactjsnewsletter.com/)
+- React.js Newsletter [http://reactjsnewsletter.com/issues](http://reactjsnewsletter.com/issues)
 
