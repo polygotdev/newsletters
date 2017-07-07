@@ -14,14 +14,14 @@
 - Postgres Weekly [http://postgresweekly.com/](http://postgresweekly.com/)
 
 ### Thursday
-- Node Weekly [http://nodeweekly.com/](http://nodeweekly.com/)
+- Node Weekly [http://nodeweekly.com/issues](http://nodeweekly.com/issues)
 - Go Newsletter [http://golangweekly.com/](http://golangweekly.com/)
 - Ruby Weekly [http://rubyweekly.com/](http://rubyweekly.com/)
 
 ### Friday
-- JavaScript Weekly [http://javascriptweekly.com/](http://javascriptweekly.com/)
-- DB Weekly [http://dbweekly.com/](http://dbweekly.com/)
-- React Status [http://react.statuscode.com/](http://react.statuscode.com/)
+- JavaScript Weekly [http://javascriptweekly.com/issues](http://javascriptweekly.com/issues)
+- DB Weekly [http://dbweekly.com/issues](http://dbweekly.com/issues)
+- React Status [https://react.statuscode.com/issues/](https://react.statuscode.com/issues/)
 - Serverless Status [https://serverless.email/issues](https://serverless.email/issues)
 
 ### Monthly
@@ -32,7 +32,7 @@ ___
 ## Independents
 
 ### Thursday
-- PyCoders Weekly Archives [http://us4.campaign-archive1.com/?u=9735795484d2e4c204da82a29&id=995f292392](http://us4.campaign-archive1.com/?u=9735795484d2e4c204da82a29&id=995f292392)
+- PyCoders Weekly Archives [http://us4.campaign-archive2.com/home/?u=9735795484d2e4c204da82a29&id=64134e0a27](http://us4.campaign-archive2.com/home/?u=9735795484d2e4c204da82a29&id=64134e0a27)
 - Python Weekly Archives [http://us2.campaign-archive1.com/home/?u=e2e180baf855ac797ef407fc7&id=9e26887fc5](http://us2.campaign-archive1.com/home/?u=e2e180baf855ac797ef407fc7&id=9e26887fc5)
 - NoSQL Weekly Archives [http://us2.campaign-archive1.com/home/?u=72f68dcee17c92724bc7822fb&id=2f0470315b](http://us2.campaign-archive1.com/home/?u=72f68dcee17c92724bc7822fb&id=2f0470315b)
 
