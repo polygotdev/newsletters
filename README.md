@@ -21,7 +21,7 @@
 ### Friday
 - JavaScript Weekly [http://javascriptweekly.com/issues](http://javascriptweekly.com/issues)
 - DB Weekly [http://dbweekly.com/issues](http://dbweekly.com/issues)
-- React Status [https://react.statuscode.com/issues](https://react.statuscode.com/issues/)
+- React Status [https://react.statuscode.com/issues](https://react.statuscode.com/issues)
 - Serverless Status [https://serverless.email/issues](https://serverless.email/issues)
 
 ### Monthly
