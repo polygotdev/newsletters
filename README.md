@@ -21,7 +21,7 @@
 ### Friday
 - JavaScript Weekly [http://javascriptweekly.com/issues](http://javascriptweekly.com/issues)
 - DB Weekly [http://dbweekly.com/issues](http://dbweekly.com/issues)
-- React Status [https://react.statuscode.com/issues/](https://react.statuscode.com/issues/)
+- React Status [https://react.statuscode.com/issues](https://react.statuscode.com/issues/)
 - Serverless Status [https://serverless.email/issues](https://serverless.email/issues)
 
 ### Monthly
@@ -31,11 +31,12 @@ ___
 
 ## Independents
 
-### Thursday
+### Tuesday
 - PyCoders Weekly Archives [http://us4.campaign-archive2.com/home/?u=9735795484d2e4c204da82a29&id=64134e0a27](http://us4.campaign-archive2.com/home/?u=9735795484d2e4c204da82a29&id=64134e0a27)
+
+### Thursday
 - Python Weekly Archives [http://us2.campaign-archive1.com/home/?u=e2e180baf855ac797ef407fc7&id=9e26887fc5](http://us2.campaign-archive1.com/home/?u=e2e180baf855ac797ef407fc7&id=9e26887fc5)
 - NoSQL Weekly Archives [http://us2.campaign-archive1.com/home/?u=72f68dcee17c92724bc7822fb&id=2f0470315b](http://us2.campaign-archive1.com/home/?u=72f68dcee17c92724bc7822fb&id=2f0470315b)
-
 
 ### Friday
 - TypeScript Weekly [https://www.typescript-weekly.com/](https://www.typescript-weekly.com/)
