@@ -4,9 +4,6 @@
 
 [Cooper Press NewsLetters](https://cooperpress.com/publications/#newsletters)
 
-[JavaScript Live](https://jslive.com/)
-
-
 ### Wednesday
 - FrontEnd Focus [http://frontendfocus.co/issues](http://frontendfocus.co/issues)
 - Mobile Web Weekly [http://mobilewebweekly.co/issues](http://mobilewebweekly.co/issues)
@@ -19,6 +16,7 @@
 - Ruby Weekly [http://rubyweekly.com/issues](http://rubyweekly.com/issues)
 
 ### Friday
+- JavaScript Live [JavaScript Live](https://jslive.com/)
 - JavaScript Weekly [http://javascriptweekly.com/issues](http://javascriptweekly.com/issues)
 - DB Weekly [http://dbweekly.com/issues](http://dbweekly.com/issues)
 - React Status [https://react.statuscode.com/issues](https://react.statuscode.com/issues)
