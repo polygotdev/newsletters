@@ -1,5 +1,9 @@
 # Tech Industry Newsletters
 
+### NodeJS
+- Node.js Foundation [http://us14.campaign-archive2.com/home/?u=c7c2e114a827812354112c23b&id=f006b61f29](http://us14.campaign-archive2.com/home/?u=c7c2e114a827812354112c23b&id=f006b61f29)
+
+
 ## Cooper Press 
 
 [Cooper Press NewsLetters](https://cooperpress.com/publications/#newsletters)
