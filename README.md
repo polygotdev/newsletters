@@ -51,6 +51,3 @@ ___
 
 ### Whenever
 - React.js Newsletter [http://reactjsnewsletter.com/issues](http://reactjsnewsletter.com/issues)
-
-
-https://www.tableau.com/learn/training?edition=unlicensed&version=10.3.1&__full-version=10300.17.0615.2100&platform=windows&status=try&reg-delay=true
