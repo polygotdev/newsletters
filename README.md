@@ -12,6 +12,8 @@
 
 [Cooper Press NewsLetters](https://cooperpress.com/publications/#newsletters)
 
+- MongoDB Weekly [https://mongodb.email/issues](https://mongodb.email/issues)
+
 ### Wednesday
 - FrontEnd Focus [http://frontendfocus.co/issues](http://frontendfocus.co/issues)
 - Mobile Web Weekly [http://mobilewebweekly.co/issues](http://mobilewebweekly.co/issues)
