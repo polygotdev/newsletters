@@ -40,7 +40,7 @@ ___
 ## Independents
 
 ### Tuesday
-- PyCoders Weekly Archives [http://us4.campaign-archive2.com/home/?u=9735795484d2e4c204da82a29&id=64134e0a27](http://us4.campaign-archive2.com/home/?u=9735795484d2e4c204da82a29&id=64134e0a27)
+- PyCoders Weekly Archives [https://pycoders.com/issues](https://pycoders.com/issues)
 
 ### Thursday
 - Python Weekly Archives [http://us2.campaign-archive1.com/home/?u=e2e180baf855ac797ef407fc7&id=9e26887fc5](http://us2.campaign-archive1.com/home/?u=e2e180baf855ac797ef407fc7&id=9e26887fc5)
