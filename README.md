@@ -32,9 +32,6 @@
 - DB Weekly [http://dbweekly.com/issues](http://dbweekly.com/issues)
 - Serverless Status [https://serverless.email/issues](https://serverless.email/issues)
 
-### Monthly
-- Cloud Development Weekly [http://clouddevweekly.co/issues](http://clouddevweekly.co/issues)
-
 ___
 
 ## Independents
