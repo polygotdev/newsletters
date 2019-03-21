@@ -46,11 +46,9 @@ ___
 - Python Weekly Archives [http://us2.campaign-archive1.com/home/?u=e2e180baf855ac797ef407fc7&id=9e26887fc5](http://us2.campaign-archive1.com/home/?u=e2e180baf855ac797ef407fc7&id=9e26887fc5)
 - NoSQL Weekly Archives [http://us2.campaign-archive1.com/home/?u=72f68dcee17c92724bc7822fb&id=2f0470315b](http://us2.campaign-archive1.com/home/?u=72f68dcee17c92724bc7822fb&id=2f0470315b)
 - Founder Weekly Archives [https://us2.campaign-archive.com/home/?u=1777e24141237efbde735ec78&id=286b01fd3e](https://us2.campaign-archive.com/home/?u=1777e24141237efbde735ec78&id=286b01fd3e)
+- React.js Newsletter [http://reactjsnewsletter.com/issues](http://reactjsnewsletter.com/issues)
 
 ### Friday
 - TypeScript Weekly [https://www.typescript-weekly.com/](https://www.typescript-weekly.com/)
 - TypeScript Weekly Archives [http://us14.campaign-archive1.com/home/?u=809daf9442ece0a92a3d65f99&id=5693c0ed42](http://us14.campaign-archive1.com/home/?u=809daf9442ece0a92a3d65f99&id=5693c0ed42)
 - Import Python [http://importpython.com/newsletter/](http://importpython.com/newsletter/)
-
-### Whenever
-- React.js Newsletter [http://reactjsnewsletter.com/issues](http://reactjsnewsletter.com/issues)
