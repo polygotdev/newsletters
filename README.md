@@ -49,6 +49,7 @@ ___
 - React.js Newsletter [http://reactjsnewsletter.com/issues](http://reactjsnewsletter.com/issues)
 
 ### Friday
-- TypeScript Weekly [https://www.typescript-weekly.com/](https://www.typescript-weekly.com/)
 - TypeScript Weekly Archives [http://us14.campaign-archive1.com/home/?u=809daf9442ece0a92a3d65f99&id=5693c0ed42](http://us14.campaign-archive1.com/home/?u=809daf9442ece0a92a3d65f99&id=5693c0ed42)
+
+### Neglected
 - Import Python [http://importpython.com/newsletter/](http://importpython.com/newsletter/)
